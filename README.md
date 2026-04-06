@@ -1,4 +1,2 @@
-The source code of this work has been released at:
+The datasets in this repository are prepared for the code available at:
 https://github.com/YHOOW/CMSA
-.
-To facilitate reproducibility and ensure long-term availability, a backup of the repository is also preserved.
